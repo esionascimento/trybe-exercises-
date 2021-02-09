@@ -9,3 +9,5 @@ O que eu vou aprender na Trybe:
 - Js
 - boas práticas
 - JavaScript
+- C
+- C++
