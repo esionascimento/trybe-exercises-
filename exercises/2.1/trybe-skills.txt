@@ -8,3 +8,4 @@ O que eu vou aprender na Trybe:
 - SoftSkills
 - Js
 - boas práticas
+- JavaScript
